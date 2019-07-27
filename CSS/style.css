@@ -1,0 +1,14 @@
+.navbar-dark{
+    background-color: #202124;
+    
+}
+body{
+    padding: 50px 0px 0px 0px;
+    z-index: 0; 
+}
+
+.navbar-default .navbar-brand{
+    color: #62DBC7;
+}
+
+
