@@ -1,0 +1,24 @@
+{
+  "name": "navbar",
+  "version": "1.0.0",
+  "description": "navigation bar using Bootstrap",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JhAshish/navBar.git"
+  },
+  "author": "Ashish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JhAshish/navBar/issues"
+  },
+  "homepage": "https://github.com/JhAshish/navBar#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.12.9"
+  }
+}
